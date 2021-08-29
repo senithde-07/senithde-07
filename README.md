@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there ,I'm SENITH👋
+I am a Undergraduate student at NSBM Green University 
 
 <!--
 **senithde-07/senithde-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
