@@ -1,4 +1,4 @@
-### Hi there ,I'm SENITH👋
+### Hi there ,I'm SENITH 👋
 I am a Undergraduate student at NSBM Green University 
 
 <!--
