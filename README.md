@@ -2,6 +2,8 @@
 I am a Undergraduate student at NSBM Green University 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=senithde-07)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=senithde-07&show_icons=true&theme=radical)
+
 
 
 <!--
