@@ -1,6 +1,6 @@
 # Hi there 👋, My name is Senith Edirisinghe
 #### I am a Undergraduate student at NSBM Green University.
-![I am a Undergraduate student at NSBM Green University.](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kindpng.com%2Ffree%2Fgithub-logo%2F&psig=AOvVaw3qKJtUxiMuDTLwXt-oRCYy&ust=1630788431467000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCND_0LrW4_ICFQAAAAAdAAAAABAD)
+![I am a Undergraduate student at NSBM Green University.](https://p.kindpng.com/picc/s/128-1280187_github-logo-png-github-transparent-png.png)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=senithde-07&show_icons=true)  
 
