@@ -1,7 +1,7 @@
 ### Hi there ,I'm SENITH 👋
 I am a Undergraduate student at NSBM Green University 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=senithde-07&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=senithde-07&show_icons=true&theme=tokyonight)
 
 
 
